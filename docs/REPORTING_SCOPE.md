@@ -1,20 +1,24 @@
-# Reporting scope and data provenance
+# Reporting scope — Structured Critical Review
 
-## Supported bibliographic figures
+This article is a **structured critical review with a proposed evaluation framework**. Studies were selected **purposively** by **one reviewer**, using source identifiability, analytical relevance, task direction, and critical evidence appraisal. No independent dual-reviewer inclusion process or inter-rater agreement is claimed.
 
-- Scopus: 93 entries; IEEE Xplore: 28; ScienceDirect citation file: 86.
-- Imported: **207**; matched cross-source duplicates: **26**.
-- Distinct candidates: **181** (93 Scopus, 7 IEEE-only, 81 ScienceDirect-only).
-- Scopus abstract provenance: 26 abstracts in cross-index exports, 50 source-linked descriptions, nine publication containers, eight unverified originals.
+**Section 6** presents a proposed evaluation framework with explicit units for source obligation coverage, claim-source support, bidirectional traceability, QUS/INVEST story quality, acceptance criteria, robustness, and human revision effort. The framework is not claimed as an experimentally validated algorithm.
 
-## Rules for reporting
+## Appendix A: literature-landscape scoping (context only)
 
-1. A bibliographic candidate is **not** an included primary study.
-2. Descriptive source-linked summaries are **not** original publisher abstracts.
-3. Proceedings containers are not individual peer-reviewed articles.
-4. Automated triage is not an independent human screening decision.
-5. Adjacent tasks (acceptance criteria, story refinement, UML generation) cannot alone establish fidelity of direct SRS-to-story transformation.
-6. Do not redistribute publisher abstracts/full texts or reveal unapproved private reviewer decisions.
-7. Report a final PRISMA inclusion count and inter-rater agreement only after completed independent decisions and eligibility checks.
+- Scopus: 93 bibliographic entries
+- IEEE Xplore: 28 entries
+- ScienceDirect citation collection: 86 entries
+- Imported total: 207 entries
+- Duplicate entries reconciled by DOI/title: 26
+- Distinct bibliographic candidates: 181
 
-This repository is a public supporting evidence index. The full proposed release archive is stored in the research Google Drive workspace.
+These are **bibliographic context counts**, not included studies or an exhaustive PRISMA flow. The ScienceDirect collection has no fully documented native search log.
+
+## Evidence and reuse
+
+- 26 source-export originals and 50 linked descriptions are separately labeled; a précis does not equal an abstract.
+- Nine publication containers are not individual articles; eight original abstracts remain unverified.
+- Claims in the manuscript use task-specific primary evidence and preserve denominators.
+- No third-party publisher full text, copyrighted abstract compilation, or private reviewer decision matrix is redistributed.
+- Research artifacts are author-review materials, not a published journal article or verified Zenodo deposition.
