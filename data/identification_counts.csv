@@ -1,0 +1,7 @@
+Stage,Count,Unit,Verification
+Scopus source export,93,bibliographic entries,50+43 export parts from one query
+IEEE Xplore source export,28,bibliographic entries,original 2026-10-29 export
+ScienceDirect citation file,86,bibliographic entries,citation collection; native search provenance not asserted
+Imported records total,207,bibliographic entries,93+28+86
+Matched cross-source duplicates,26,duplicate bibliographic entries,21 IEEE/Scopus + five ScienceDirect matches
+Distinct bibliographic candidates,181,bibliographic records,93 Scopus + 7 IEEE-only + 81 ScienceDirect-only
