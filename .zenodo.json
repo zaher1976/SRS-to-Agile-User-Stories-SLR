@@ -1,6 +1,6 @@
 {
-  "title": "From Software Requirements Specifications to Agile User Stories: Bibliographic and Evidence Provenance Tables",
-  "description": "Author-review reproducibility package. 181 distinct bibliographic candidates; NOT a final included-study count. Full author-review files are available in the prepared release ZIP; do not infer that GitHub currently contains all binaries.",
+  "title": "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Structured Critical Review and Proposed Evaluation Framework",
+  "description": "Author-review research materials for a purposively selected, single-reviewer structured critical review, with a proposed (not empirically validated) source-grounded evaluation framework. Appendix A provides literature-landscape scoping: 207 imported records, 26 duplicate entries, and 181 distinct bibliographic candidates; these are not the included-study count.",
   "creators": [
     {
       "name": "Raham, Zaher Fadhil",
@@ -11,7 +11,7 @@
       "affiliation": "Al-Nahrain University"
     }
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by-4.0",
