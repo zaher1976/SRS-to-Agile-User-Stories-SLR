@@ -1,0 +1,98 @@
+{
+  "project": "SRS-to-Agile-User-Stories-SLR",
+  "version": "0.1.0",
+  "package_date": "2026-11-03",
+  "record_status": "bibliographic candidates, not final included studies",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 93,
+      "sha256": "734d68294855b2c1716c6099ae06803d859ea88c4d34f655529262497b397156"
+    },
+    {
+      "path": ".zenodo.json",
+      "bytes": 938,
+      "sha256": "2196c3343d4a6ed71bcebedf5c816fa1ad9bb6f588715ec089203f1e332f957c"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 623,
+      "sha256": "4a10a253b670873c36c5a6fb0d56cdbbebeec612a928ea949598d9ae4fe86c22"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 615,
+      "sha256": "0e7eb654f04d2cc381ddb56a2f703e46a328937e8f66dd0984278ab9ee4c74a0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4014,
+      "sha256": "84ccf59cd17d1e2357ee274bbc800747726deda769c9bd4a15130c386ca7f136"
+    },
+    {
+      "path": "data/bibliographic_candidates_181.csv",
+      "bytes": 48414,
+      "sha256": "773eeda3815370ea717cc80a5fa508bdc24725c22be1d83a2af66003d78d499b"
+    },
+    {
+      "path": "data/evidence_roles.csv",
+      "bytes": 291,
+      "sha256": "a5f31a72b7e7c3e6819c0d8507d372f227e904bef3130c1018644605fa38c5db"
+    },
+    {
+      "path": "data/identification_counts.csv",
+      "bytes": 587,
+      "sha256": "0ea4b80a9d379ead373e6fb56a10ad6a65657292cfb821e5d3e8698be379769c"
+    },
+    {
+      "path": "data/scopus_abstract_provenance_93.csv",
+      "bytes": 38539,
+      "sha256": "51e3c6d1b6fda4019ec3e357a9f337ed9e8d843da054a9749839dab770df4a5b"
+    },
+    {
+      "path": "data/source_linked_scopus_76.csv",
+      "bytes": 32315,
+      "sha256": "b0f9265e925bc438b3cc8380ccf2cc52f5aedbd735043c351c1c6dd0066c18ab"
+    },
+    {
+      "path": "data/verified_source_tables.xlsx",
+      "bytes": 46848,
+      "sha256": "525b4336fd51fb28b2ee308a51abf375dca3c27cdb35fc512f05dbef2acb95bd"
+    },
+    {
+      "path": "docs/PUBLISHING_STEPS.md",
+      "bytes": 1232,
+      "sha256": "5dc57998300435847cb63da6c17efffb01eda33c2d643927163f7984afab90f1"
+    },
+    {
+      "path": "docs/REPORTING_SCOPE.md",
+      "bytes": 2169,
+      "sha256": "f175f669f29b727e2e1e774093595819d7a40931cae6abdd665c46f6f344c4c2"
+    },
+    {
+      "path": "manuscript/SRS_to_Agile_User_Stories_Author_Review_2026-11-03.docx",
+      "bytes": 643517,
+      "sha256": "128aab75a3c595680477fb9eec1e61872cc4c0a1cda0768e3e1ecf44ef961653"
+    },
+    {
+      "path": "manuscript/SRS_to_Agile_User_Stories_Author_Review_2026-11-03.pdf",
+      "bytes": 763744,
+      "sha256": "a42adc2500880266dc1101abfe7ba753d3a6a0a375879e7fac23905f5dae4b15"
+    },
+    {
+      "path": "scripts/LICENSE-MIT.txt",
+      "bytes": 1090,
+      "sha256": "fa127f43999709615c20ec131e6c4f7ced3d2f715f2a0ed153f10b638775a731"
+    },
+    {
+      "path": "scripts/publish_to_github.ps1",
+      "bytes": 604,
+      "sha256": "91df77733a096de270124dd786fa0ac014651b556cdd179258cd066ea615c587"
+    },
+    {
+      "path": "scripts/verify_package.py",
+      "bytes": 1620,
+      "sha256": "838d62eb5ac1880f48ec168151fb8e9ca41cfc7d2d06f864b5050d82b84b0d67"
+    }
+  ]
+}

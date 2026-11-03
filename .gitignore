@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.tmp
+~$*
+/raw_exports/
+/private_reviews/
+/licensed_full_texts/
