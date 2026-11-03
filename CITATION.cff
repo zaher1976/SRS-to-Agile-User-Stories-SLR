@@ -1,18 +1,17 @@
 cff-version: 1.2.0
-message: "If you use these evidence-indexing tables and manuscript support materials, please cite this repository release."
+message: "Please cite this structured critical review and its source-provenance companion."
 type: dataset
-title: "From Software Requirements Specifications to Agile User Stories: Bibliographic and Evidence Provenance Tables"
+title: "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Structured Critical Review and Proposed Evaluation Framework"
 authors:
   - family-names: Raham
     given-names: Zaher Fadhil
   - family-names: Salah
     given-names: Sura
-version: 0.1.0
+version: 0.1.1
 license: CC-BY-4.0
 keywords:
+  - structured critical review
   - requirements engineering
-  - software requirements specification
   - Agile user stories
   - large language models
-  - systematic evidence review
-  - traceability
+  - source-grounded evaluation framework
