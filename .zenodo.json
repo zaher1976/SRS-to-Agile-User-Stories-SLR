@@ -1,0 +1,26 @@
+{
+  "title": "From Software Requirements Specifications to Agile User Stories: Bibliographic and Evidence Provenance Tables",
+  "description": "Author-review reproducibility package. 181 distinct bibliographic candidates; NOT a final included-study count. Full author-review files are available in the prepared release ZIP; do not infer that GitHub currently contains all binaries.",
+  "creators": [
+    {
+      "name": "Raham, Zaher Fadhil",
+      "affiliation": "Universiti Tenaga Nasional; Al-Nahrain University"
+    },
+    {
+      "name": "Salah, Sura",
+      "affiliation": "Al-Nahrain University"
+    }
+  ],
+  "version": "0.1.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "requirements engineering",
+    "user stories",
+    "LLM",
+    "PRISMA",
+    "source provenance"
+  ]
+}
