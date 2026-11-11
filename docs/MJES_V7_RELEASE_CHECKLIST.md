@@ -1,6 +1,6 @@
 # Pre-release checks for MJES v7 supporting materials
 
-- [ ] Resolve whether literature selection was performed by one reviewer or two researchers by agreement (existing README versus manuscript v7).
+- [x] Confirm review procedure with authors: Zaher Fadhil Raham and Sura Salah selected and assessed studies by joint agreement, **without independent screening** (confirmed 11 November 2026). No inter-rater statistic is claimed.
 - [ ] Verify the 207 imported / 26 duplicate / 181 unique counts against frozen original exports, distinguishing imported origins from deduplicated origins.
 - [ ] Validate bibliography provenance, DOIs, titles and source URLs; do not claim 181 included studies.
 - [ ] Check whether Scopus, IEEE Xplore and ScienceDirect metadata export terms permit public redistribution of each proposed column.
