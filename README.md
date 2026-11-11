@@ -7,7 +7,7 @@ Working manuscript: [Structured Critical Review (Word)](manuscript/SRS_Structure
 
 ## Review design
 
-This is a **structured critical review** that purposively selects source-verifiable publications for task-aware comparison. Study selection and critical synthesis were performed **by a single reviewer**, not by independently adjudicated multiple reviewers. The review is not presented as a completed PRISMA systematic review or as exhaustive evidence identification.
+This is a **structured critical review** that purposively selects source-verifiable publications for task-aware comparison. Study selection and critical synthesis were performed **by two researchers (Zaher Fadhil Raham and Sura Salah) through joint discussion and agreement**, as confirmed by the authors on 11 November 2026. The researchers **did not independently screen or rate each paper**, so no independent inter-rater agreement statistic is claimed. The review is not presented as a completed PRISMA systematic review or as exhaustive evidence identification.
 
 Section **6** is the principal methodological contribution: a **proposed** source-grounded evaluation framework for SRS-to-Agile-user-story transformation. It specifies atomic obligation coverage, claim-source faithfulness, bidirectional traceability, story quality, acceptance-test readiness, robustness, and human revision effort. The protocol has **not** been empirically validated.
 

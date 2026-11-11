@@ -1,17 +1,18 @@
 cff-version: 1.2.0
-message: "Please cite this structured critical review and its source-provenance companion."
+message: "Please cite the archived version of these supporting materials when a version DOI becomes available."
 type: dataset
-title: "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Structured Critical Review and Proposed Evaluation Framework"
+title: "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Critical Literature Review and Proposed Evaluation Framework — Supporting Materials"
 authors:
   - family-names: Raham
     given-names: Zaher Fadhil
   - family-names: Salah
     given-names: Sura
-version: 0.1.1
+version: 0.2.0
 license: CC-BY-4.0
 keywords:
-  - structured critical review
+  - critical literature review
   - requirements engineering
   - Agile user stories
   - large language models
   - source-grounded evaluation framework
+repository-code: "https://github.com/zaher1976/SRS-to-Agile-User-Stories-SLR"
