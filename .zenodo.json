@@ -1,6 +1,6 @@
 {
-  "title": "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Structured Critical Review and Proposed Evaluation Framework",
-  "description": "Author-review research materials for a purposively selected, single-reviewer structured critical review, with a proposed (not empirically validated) source-grounded evaluation framework. Appendix A provides literature-landscape scoping: 207 imported records, 26 duplicate entries, and 181 distinct bibliographic candidates; these are not the included-study count.",
+  "title": "From Software Requirements Specifications to Agile User Stories Using Large Language Models: A Critical Literature Review and Proposed Evaluation Framework",
+  "description": "Supporting research materials for a critical literature review by two researchers (Zaher Fadhil Raham and Sura Salah), who selected and appraised sources through joint discussion and agreement without independent screening or an inter-rater agreement statistic. The proposed source-grounded evaluation framework has not been empirically validated. The descriptive bibliographic collection contains 207 imported entries, 26 duplicates and 181 unique candidates, not 181 included studies. Rights and provenance should be verified before public release.",
   "creators": [
     {
       "name": "Raham, Zaher Fadhil",
@@ -11,16 +11,17 @@
       "affiliation": "Al-Nahrain University"
     }
   ],
-  "version": "0.1.1",
+  "version": "0.2.0",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",
   "keywords": [
     "requirements engineering",
-    "user stories",
-    "LLM",
-    "PRISMA",
-    "source provenance"
+    "Agile user stories",
+    "large language models",
+    "critical literature review",
+    "requirements traceability",
+    "source-grounded evaluation"
   ]
 }
