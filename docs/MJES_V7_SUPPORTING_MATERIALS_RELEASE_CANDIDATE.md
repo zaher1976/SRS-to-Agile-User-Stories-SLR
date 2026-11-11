@@ -21,9 +21,9 @@ Status: **PRE-RELEASE / NOT YET APPROVED FOR ZENODO DEPOSIT**. This note documen
 - **No empirical validation is claimed.** A basic CSV integrity script does not test the proposed evaluation framework.
 - Do not automatically label every bibliographic candidate as an included study or assign an E1–E4 category without documented appraisal.
 
-## Author-review discrepancy requiring a decision before release
+## Author-confirmed review procedure (11 November 2026)
 
-The live repository's README (checked on 11 November 2026) describes a single-reviewer selection and synthesis. MJES manuscript v7, Section 3.1, says two researchers selected and assessed studies by agreement and did not screen independently. The team must reconcile this from signed-off records before presenting either as the definitive method. Do not state inter-rater agreement when independent assessments did not occur.
+Both authors, Zaher Fadhil Raham and Sura Salah, confirm that they selected and critically assessed the literature jointly by discussion and agreement. They did **not** conduct independent initial screening or independent ratings. No inter-rater agreement statistic (for example, Cohen's kappa) was calculated. This supersedes the previous single-reviewer description in the repository README; it is consistent with MJES manuscript v7 Section 3.1. This author confirmation does not itself validate individual screening records.
 
 ## Rights and verification
 
